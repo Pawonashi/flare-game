@@ -45,11 +45,11 @@ msgstr "Prastary Relikt"
 
 #: ../items/types.txt:9
 msgid "Crafting Resource"
-msgstr ""
+msgstr "Składnik rzemieślniczy"
 
 #: ../items/types.txt:13
 msgid "Crafting Tool"
-msgstr ""
+msgstr "Narzędzie rzemieślnicze"
 
 #: ../items/sets.txt:3
 msgid "St. Maria Garb"
@@ -69,7 +69,7 @@ msgstr "Zbrojownia Podświata"
 
 #: ../items/qualities.txt:5
 msgid "Normal"
-msgstr ""
+msgstr "Normalny"
 
 #: ../powers/effects.txt:6
 msgid "Shield"
@@ -883,8 +883,7 @@ msgstr "Księga"
 msgid ""
 "The statue is missing an eye. The sapphire fits securely in the statue's eye"
 " socket."
-msgstr ""
-"W statule brakuje oka. Szafir wpasowuje się idealnie w oczodół posągu."
+msgstr "W statule brakuje oka. Szafir wpasowuje się idealnie w oczodół posągu."
 
 #: ../maps/fort_amir.txt:403
 msgid "Statue"
@@ -984,7 +983,7 @@ msgstr "Umieszczasz figurkę na ołtarzu."
 
 #: ../maps/hyperspace.txt:196
 msgid "St. Maria: Catacombs"
-msgstr ""
+msgstr "Św. Maria: Katakumby"
 
 #: ../maps/hyperspace.txt:218
 msgid "Stormrock Pass"
@@ -1104,7 +1103,7 @@ msgstr "Zamknięte Drzwi"
 
 #: ../maps/st_maria_2.txt:271
 msgid "St. Maria: Catacombs waypoint discovered."
-msgstr ""
+msgstr "Odkryto punkt nawigacyjny w Katakumbach Św. Marii."
 
 #: ../maps/st_maria_2.txt:463
 msgid "St. Maria: Crypt"
@@ -1232,14 +1231,16 @@ msgid ""
 "You found a chamber on the east side of Perdition Harbor that contains the "
 "Book of the Dead."
 msgstr ""
+"We wschodniej części Zatoki Zatracenia odszukujesz komnatę, w której "
+"znajduje się Księga Umarłych."
 
 #: ../quests/000_empyrean.txt:12
 msgid ""
 "The Book of the Dead states redemption is possible for those who sign their "
 "name in gravebloom ink. Florin in Perdition Harbor can tell you more."
 msgstr ""
-"Księga Umarłych głosi, że odkupienie jest osiągalne dla tych, którzy zapiszą"
-" swoje imię atramentem Grobokwiatu. Florin w Zatoce Zatracenia może "
+"Księga Umarłych głosi, że odkupienie jest osiągalne dla tych, którzy zapiszą "
+"swoje imię atramentem Grobokwiatu. Florin w Zatoce Zatracenia może "
 "powiedzieć Ci więcej."
 
 #: ../quests/000_empyrean.txt:17
@@ -1447,8 +1448,7 @@ msgstr "Zamknięty"
 msgid ""
 "The door to the Stormrock Ruins is locked. There must be a way to unlock it."
 msgstr ""
-"Drzwi do Ruin Burzokamienia są zamknięte. Musi być sposób na odblokowanie "
-"ich."
+"Drzwi do Ruin Burzokamienia są zamknięte. Musi być sposób na odblokowanie ich."
 
 #: ../quests/006_stormrock.txt:12
 msgid ""
@@ -1522,8 +1522,7 @@ msgstr "Znajdź sposób na otwarcie drzwi do biblioteki w Forcie Nasu."
 
 #: ../quests/009_nasu.txt:17
 msgid "Discover a way to open the pit room door in Fort Nasu."
-msgstr ""
-"Znajdź sposób na otwarcie drzwi do pomieszczenia z jamą w Forcie Nasu."
+msgstr "Znajdź sposób na otwarcie drzwi do pomieszczenia z jamą w Forcie Nasu."
 
 #: ../quests/009_nasu.txt:22
 msgid "Discover a way to open the final door in Fort Nasu."
@@ -1830,8 +1829,7 @@ msgstr "Czarne Pióro"
 
 #: ../npcs/florin.txt:45
 msgid "Do you think this quill is capable of holding gravebloom ink?"
-msgstr ""
-"Myślisz, że będzie możliwe pisanie atramentem Grobokwiatu przy pomocy tego?"
+msgstr "Myślisz, że będzie możliwe pisanie atramentem Grobokwiatu przy pomocy tego?"
 
 #: ../npcs/florin.txt:46
 msgid "It's certainly no normal quill. I've never seen anything like it."
@@ -1930,7 +1928,7 @@ msgstr ""
 
 #: ../npcs/florin.txt:82
 msgid "Alchemy"
-msgstr ""
+msgstr "Alchemia"
 
 #: ../npcs/glowing_obelisk_1.txt:1
 msgid "Glowing Obelisk"
@@ -1973,6 +1971,8 @@ msgid ""
 "If you can prove to me that they are free from their cursed form, I will be "
 "in your debt."
 msgstr ""
+"Jeśli udowodnisz mi, że są wolni od swej przeklętej formy, będę "
+"Twym dłużnikiem."
 
 #: ../npcs/martigan.txt:23
 msgid "I can't assist you myself, but I can offer some of my wares."
@@ -2273,19 +2273,19 @@ msgstr "Tłumacze"
 
 #: ../cutscenes/credits.txt:35
 msgid "Diego J. Romero López"
-msgstr ""
+msgstr "Diego J. Romero López"
 
 #: ../cutscenes/credits.txt:36
 msgid "Eric R"
-msgstr ""
+msgstr "Eric R"
 
 #: ../cutscenes/credits.txt:37
 msgid "Fyrenic"
-msgstr ""
+msgstr "Fyrenic"
 
 #: ../cutscenes/credits.txt:38
 msgid "Gabriel Iasi"
-msgstr ""
+msgstr "Gabriel Iasi"
 
 #: ../cutscenes/credits.txt:39
 msgid "GunChleoc"
@@ -2301,19 +2301,19 @@ msgstr "Janet Hun"
 
 #: ../cutscenes/credits.txt:42
 msgid "Mikalái Valér'evich Sakalóuski"
-msgstr ""
+msgstr "Mikalái Valér'evich Sakalóuski"
 
 #: ../cutscenes/credits.txt:43
 msgid "Mykola Franchuk"
-msgstr ""
+msgstr "Mykola Franchuk"
 
 #: ../cutscenes/credits.txt:44
 msgid "MOB2"
-msgstr ""
+msgstr "MOB2"
 
 #: ../cutscenes/credits.txt:45
 msgid "Nea Retrogamer"
-msgstr ""
+msgstr "Nea Retrogamer"
 
 #: ../cutscenes/credits.txt:46
 msgid "Pavel Maryanov"
@@ -2325,7 +2325,7 @@ msgstr "Paweł Puszczyński"
 
 #: ../cutscenes/credits.txt:48
 msgid "Rui"
-msgstr ""
+msgstr "Rui"
 
 #: ../cutscenes/credits.txt:49
 msgid "Sang-froid"
@@ -2333,11 +2333,11 @@ msgstr "Sang-froid"
 
 #: ../cutscenes/credits.txt:50
 msgid "Sam Vo"
-msgstr ""
+msgstr "Sam Vo"
 
 #: ../cutscenes/credits.txt:51
 msgid "Sergiy Borodych"
-msgstr ""
+msgstr "Sergiy Borodych"
 
 #: ../cutscenes/credits.txt:53
 msgid "sujiniku"
@@ -2345,25 +2345,26 @@ msgstr "sujiniku"
 
 #: ../cutscenes/credits.txt:54
 msgid "syl_"
-msgstr ""
+msgstr "syl_"
 
 #: ../cutscenes/credits.txt:55
 msgid "Vicente Monteiro"
-msgstr ""
+msgstr "Vicente Monteiro"
 
 #: ../cutscenes/credits.txt:56
 msgid "Wuzzy2"
-msgstr ""
+msgstr "Wuzzy2"
 
 #: ../cutscenes/credits.txt:57
 msgid "Zmicer Turok"
-msgstr ""
+msgstr "Zmicer Turok"
 
 #: ../cutscenes/ending.txt:7
 msgid ""
 "At long last, your journey across the surface and into the Underworld has "
 "come to an end."
-msgstr "Nareszcie, Twoja podróż przez powierzchnię i Podświat dobiegła końca."
+msgstr ""
+"Nareszcie, Twoja podróż przez powierzchnię i Podświat dobiegła końca."
 
 #: ../cutscenes/ending.txt:9
 msgid "Upon entering The Pit, a glowing obelisk shined in the distance."
@@ -2419,7 +2420,7 @@ msgstr "Tobie!"
 
 #: ../cutscenes/ending.txt:34
 msgid "The End"
-msgstr ""
+msgstr "Koniec"
 
 #: ../books/book_of_the_dead.txt:13
 msgid ""
@@ -2431,27 +2432,27 @@ msgstr ""
 
 #: ../books/book_of_the_dead.txt:20
 msgid "${AVATAR_NAME}"
-msgstr ""
+msgstr "${AVATAR_NAME}"
 
 #: ../books/crafting_alchemy.txt:23
 msgid "Reset"
-msgstr ""
+msgstr "Zacznij od nowa"
 
 #: ../books/crafting_alchemy.txt:29
 msgid "Craft"
-msgstr ""
+msgstr "Wytwórz"
 
 #: ../books/crafting_alchemy.txt:48
 msgid "Empty Bottle"
-msgstr ""
+msgstr "Pusta butelka"
 
 #: ../books/crafting_alchemy.txt:65
 msgid "Aloe Vera"
-msgstr ""
+msgstr "Aloes"
 
 #: ../books/crafting_alchemy.txt:82
 msgid "Mana Crystal"
-msgstr ""
+msgstr "Kryształ Many"
 
 #: ../books/crafting_alchemy.txt:136
 msgid "Health Potion"
@@ -2463,7 +2464,7 @@ msgstr "Mikstura Many"
 
 #: ../books/cutscene_list.txt:21
 msgid "Ending"
-msgstr ""
+msgstr "Zakończenie"
 
 #: ../books/merchants_journal.txt:13
 msgid "1488/9/27"
@@ -3506,7 +3507,7 @@ msgstr "Klucz do Mauzoleum Św. Marii"
 
 #: ../items/categories/quest.txt:49
 msgid "St. Maria Catacombs Key"
-msgstr ""
+msgstr "Klucz do Karakumb Św. Marii"
 
 #: ../items/categories/quest.txt:58
 msgid "Strange Sapphire A"
@@ -3658,11 +3659,11 @@ msgstr ""
 
 #: ../items/categories/crafting.txt:38
 msgid "Mortar and Pestle"
-msgstr ""
+msgstr "Moździerz i tłuczek"
 
 #: ../items/categories/crafting.txt:39
 msgid "Use empty bottles and various ingredients to create potions."
-msgstr ""
+msgstr "Użyj pustych butelek i różnych składników do warzenia mikstur."
 
 #: ../items/categories/level_4_unique.txt:3
 msgid "Krolan's Hammer"
@@ -4438,8 +4439,7 @@ msgstr "Buława Metzgera"
 
 #: ../items/categories/level_12_unique.txt:89
 msgid "Swinging this mace around leaves a clouded trail of dark smoke."
-msgstr ""
-"Wymachiwanie tą buławą zostawia za sobą ślady w postaci czarnego dymu."
+msgstr "Wymachiwanie tą buławą zostawia za sobą ślady w postaci czarnego dymu."
 
 #: ../items/categories/potions.txt:8
 msgid "Restore 25% of maximum HP"
@@ -4571,8 +4571,7 @@ msgstr "Spopielenie"
 
 #: ../powers/base/magician/burn.txt:4
 msgid "Blast multiple enemies in a distant area with fire."
-msgstr ""
-"Wysadź w powietrze grupę przeciwników w dużej odległości przy pomocy ognia."
+msgstr "Wysadź w powietrze grupę przeciwników w dużej odległości przy pomocy ognia."
 
 #: ../powers/base/magician/energy_flow.txt:1
 msgid "Energy Flow"
@@ -4688,8 +4687,7 @@ msgstr "Rzut Toporem"
 
 #: ../powers/base/warrior/throw_axe.txt:2
 msgid "Throw an axe to deal extra melee weapon damage."
-msgstr ""
-"Rzuć toporem, zadając dodatkowe obrażenia od broni do walki w zwarciu."
+msgstr "Rzuć toporem, zadając dodatkowe obrażenia od broni do walki w zwarciu."
 
 #: ../powers/base/warrior/warcry.txt:1
 msgid "Warcry"
@@ -4697,8 +4695,7 @@ msgstr "Okrzyk Bojowy"
 
 #: ../powers/base/warrior/warcry.txt:4
 msgid "Remove debuffs and become immune to debuffs for a limited time."
-msgstr ""
-"Usuwa negatywne efekty i czyni Cię niewrażliwym na nie przez pewien czas."
+msgstr "Usuwa negatywne efekty i czyni Cię niewrażliwym na nie przez pewien czas."
 
 #: ../powers/base/ranger/bear_trap.txt:1
 msgid "Bear Trap"
@@ -4706,8 +4703,7 @@ msgstr "Pułapka na niedźwiedzie"
 
 #: ../powers/base/ranger/bear_trap.txt:2
 msgid "This trap deals extra ranged weapon damage and immobilizes the target."
-msgstr ""
-"Ta pułapka zadaje dodatkowe obrażenia od broni dystansowej i unieruchamia "
+msgstr "Ta pułapka zadaje dodatkowe obrażenia od broni dystansowej i unieruchamia "
 "cel."
 
 #: ../powers/base/ranger/multishot.txt:1
@@ -4774,8 +4770,7 @@ msgstr "Przebijający Strzał"
 
 #: ../powers/base/ranger/piercing_shot.txt:2
 msgid "Fire a shot that ignores armor and goes through multiple enemies."
-msgstr ""
-"Wystrzel pocisk ignorujący zbroję i przeszywający przeciwników na wylot."
+msgstr "Wystrzel pocisk ignorujący zbroję i przeszywający przeciwników na wylot."
 
 #: ../powers/categories/magician.txt:7
 msgid "Channel"
